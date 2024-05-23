@@ -1,0 +1,164 @@
+2024-05-09 00:03:09 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:03:09 ERROR TC_001_AccountRegistartionTest:55 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-05-09 00:03:09 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:07:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 00:09:39 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:09:39 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 00:09:42 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 00:09:42 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 00:09:43 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 00:09:44 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 00:09:44 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:12:45 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:12:45 ERROR TC_001_AccountRegistartionTest:55 - Test failed: invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [be83e83243cf40a4685b34bfa383a886, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.118, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:46369}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 124.0.6367.118, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be83e83243cf40a4685b34bfa383a886
+2024-05-09 00:12:45 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:17:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 00:18:12 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:18:12 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 00:18:13 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 00:18:13 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 00:18:15 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 00:18:15 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 00:18:15 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:18:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 00:20:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 00:21:15 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:21:15 ERROR TC_001_AccountRegistartionTest:55 - Test failed: invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [7ab82ebef020ae2c0da4151319781ee1, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.118, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34617}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 124.0.6367.118, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ab82ebef020ae2c0da4151319781ee1
+2024-05-09 00:21:15 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:24:39 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:24:39 ERROR TC_001_AccountRegistartionTest:55 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-05-09 00:24:39 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:26:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\final.xml
+
+2024-05-09 00:26:06 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:26:06 ERROR TC_001_AccountRegistartionTest:55 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-05-09 00:26:06 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:26:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\final.xml
+
+2024-05-09 00:26:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:27:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:28:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:29:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:30:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:31:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\crossbrowsertesting.xml
+
+2024-05-09 00:33:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:33:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:35:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\master.xml
+
+2024-05-09 00:35:21 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 00:35:21 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 00:35:25 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 00:35:25 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 00:35:26 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 00:35:26 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 00:35:26 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 00:35:33 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-09 00:35:33 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-09 00:35:33 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-05-09 00:35:33 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-05-09 00:35:34 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-05-09 00:35:35 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-05-09 12:21:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 12:21:09 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 12:21:09 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 12:21:11 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 12:21:11 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 12:21:13 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 12:21:13 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 12:21:13 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 12:30:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\linga\sai_lingala\opencartV121\grid-docker.xml
+
+2024-05-09 12:30:33 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 12:30:33 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 12:30:35 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 12:30:35 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 12:30:37 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 12:30:37 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 12:30:37 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 17:36:47 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 17:36:48 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 17:36:49 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 17:36:49 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 17:36:50 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 17:36:50 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 17:36:50 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 17:36:54 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-09 17:36:54 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-09 17:36:54 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-05-09 17:36:54 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-05-09 17:36:55 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-05-09 17:36:55 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-05-09 17:38:45 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-09 17:38:45 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-09 17:38:45 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-05-09 17:38:45 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-05-09 17:38:47 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-05-09 17:38:47 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-05-09 17:42:13 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 17:42:13 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 17:42:14 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 17:42:14 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 17:42:16 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 17:42:16 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 17:42:16 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 17:42:22 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-09 17:42:22 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-09 17:42:22 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-05-09 17:42:22 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-05-09 17:42:25 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-05-09 17:42:25 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-05-09 18:00:51 INFO  TC_001_AccountRegistartionTest:19 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-05-09 18:00:51 INFO  TC_001_AccountRegistartionTest:25 - Clicked on MyAccount Link.. 
+2024-05-09 18:00:53 INFO  TC_001_AccountRegistartionTest:28 - Clicked on Register Link.. 
+2024-05-09 18:00:53 INFO  TC_001_AccountRegistartionTest:32 - Providing customer details...
+2024-05-09 18:00:55 INFO  TC_001_AccountRegistartionTest:46 - Validating expected message..
+2024-05-09 18:00:55 INFO  TC_001_AccountRegistartionTest:51 - Test passed
+2024-05-09 18:00:55 INFO  TC_001_AccountRegistartionTest:60 - ***** Finished TC001_AccountRegistrationTest *****
+2024-05-09 18:01:04 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-09 18:01:04 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-09 18:01:04 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-05-09 18:01:04 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-05-09 18:01:07 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-05-09 18:01:07 INFO  TC_002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
